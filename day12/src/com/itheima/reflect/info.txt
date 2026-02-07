@@ -1,0 +1,11 @@
+=====Dog=====
+name(小黄)
+age(2)
+=====Student=====
+name(小王)
+age(18)
+=====Teacher=====
+name(老周)
+age(44)
+phone(123456)
+address(北京)
